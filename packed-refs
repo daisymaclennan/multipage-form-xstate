@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+a7210aa4cc6bad31cc6ad4c45dbd340913c1c37c refs/heads/feature/blog-posts
+86cf9f400e5527f462c17be4ca104446c78b14ec refs/heads/feature/color-picker-project
+179cb41033c29c64e9ddd51cde04c7f4e6fb905a refs/heads/inquirer
+5fd7be002f07eb98754186b0973a7b59ec7006b1 refs/heads/main
